@@ -24,4 +24,4 @@ Features of the platform
 | Amar Mahmoud  |       | [@Amar-Mahmoud](https://github.com/Amar-Mahmoud) |
 | Mohammed Oharb  |       | [@MohammedJava](https://github.com/MohammedJava) |
 | Kunal Harshilkumar Shah  |       | [@Kunal22shah](https://github.com/Kunal22shah) |
-| Dina Yashaev  |       | [@superdina68](https://github.com/superdina68)|
+| Dina Yashaev  |  27613822    | [@superdina68](https://github.com/superdina68)|
