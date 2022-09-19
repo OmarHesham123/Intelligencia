@@ -14,5 +14,12 @@ Features of the platform
 - tool 2
 
 ## Team members
-- Ahmed Rebei @ahmedrebei
-- person @person
+- Omar Mahmoud @OmarHesham123
+- Mira Aji @miraaji
+- Zeineb Ben Mami @
+- Justin Latella @kknicekewl
+- Rohan Das @DasDeveloper
+- Amar Mahmoud @Amar-Mahmoud
+- Mohammed Oharb @MohammedJava
+- Kunal Harshilkumar Shah @Kunal22shah
+- Dina Yashaev @superdina68
