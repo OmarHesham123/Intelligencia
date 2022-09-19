@@ -24,7 +24,7 @@ Features of the platform
 | ------------- | ------------- | ------------- | 
 | Omar Mahmoud  |   40158127    |[@OmarHesham123](https://github.com/OmarHesham123)|
 | Mira Aji  |    40041473   | [@miraaji](https://github.com/miraaji) |
-| Zeineb Ben Mami |       | [@](https://github.com/) |
+| Zeineb Ben Mami |   40024877    | [@zeinebbenmami ](https://github.com/zeinebbenmami) |
 | Justin Latella  |   40091366    | [@kknicekewl](https://github.com/kknicekewl)|
 | Rohan Das  |       | [@DasDeveloper](https://github.com/DasDeveloper) |
 | Amar Mahmoud  |       | [@Amar-Mahmoud](https://github.com/Amar-Mahmoud) |
