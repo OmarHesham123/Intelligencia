@@ -1,4 +1,4 @@
-# SOEN342_template
+# SOEN342_Intelligencia
 
 ## Project Description
 Creating an E-learning platform
