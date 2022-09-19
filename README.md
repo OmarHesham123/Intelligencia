@@ -18,7 +18,7 @@ Features of the platform
 | ------------- | ------------- | ------------- |
 | Omar Mahmoud  |   40158127    | @OmarHesham123|
 | Mira Aji  |    40041473   | @miraaji |
-| Zeineb Ben Mami |       | @miraaji |
+| Zeineb Ben Mami |       | @ |
 | Justin Latella  |       | @kknicekewl |
 | Rohan Das  |       | @DasDeveloper |
 | Amar Mahmoud  |       | @Amar-Mahmoud |
