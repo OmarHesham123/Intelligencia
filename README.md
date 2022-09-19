@@ -14,6 +14,11 @@ Features of the platform
 - tool 2
 
 ## Team members
+| Full Names    | IDs           |  Github Names |
+| ------------- | ------------- | ------------- |
+| Omar Mahmoud  |   40158127    | @OmarHesham123|
+| Omar Mahmoud  |   40158127    | @OmarHesham123|
+
 - *Omar Mahmoud* @OmarHesham123
 - Mira Aji @miraaji
 - Zeineb Ben Mami @
