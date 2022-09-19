@@ -17,11 +17,11 @@ Features of the platform
 | Full Names    | IDs           |  Github Names |
 | ------------- | ------------- | ------------- | 
 | Omar Mahmoud  |   40158127    |[@OmarHesham123](https://github.com/OmarHesham123)|
-| Mira Aji  |    40041473   | @miraaji |
-| Zeineb Ben Mami |       | @ |
-| Justin Latella  |       | @kknicekewl |
-| Rohan Das  |       | @DasDeveloper |
-| Amar Mahmoud  |       | @Amar-Mahmoud |
-| Mohammed Oharb  |       | @MohammedJava |
-| Kunal Harshilkumar Shah  |       | @Kunal22shah |
-| Dina Yashaev  |       | @superdina68 |
+| Mira Aji  |    40041473   | [@miraaji](https://github.com/miraaji) |
+| Zeineb Ben Mami |       | [@](https://github.com/) |
+| Justin Latella  |       | [@kknicekewl](https://github.com/kknicekewl)|
+| Rohan Das  |       | [@DasDeveloper](https://github.com/DasDeveloper) |
+| Amar Mahmoud  |       | [@Amar-Mahmoud](https://github.com/Amar-Mahmoud) |
+| Mohammed Oharb  |       | [@MohammedJava](https://github.com/MohammedJava) |
+| Kunal Harshilkumar Shah  |       | [@Kunal22shah](https://github.com/Kunal22shah) |
+| Dina Yashaev  |       | [@superdina68](https://github.com/superdina68)|
