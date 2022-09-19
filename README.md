@@ -10,8 +10,14 @@ Here goes the objectives of the project
 Features of the platform
 
 ## Tools and Techniques
-- technique 1
-- tool 2
+ **Techniques**
+ 
+ **Tools**
+ Justinmind
+ Figma
+ Matrial Design
+ Ionic Framwork
+ Bootstrap
 
 ## Team members
 | Full Names    | IDs           |  Github Usernames |
