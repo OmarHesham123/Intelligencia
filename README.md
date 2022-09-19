@@ -13,11 +13,11 @@ Features of the platform
  **Techniques**
  
  **Tools** <br />
- Justinmind
- Figma
- Matrial Design
- Ionic Framwork
- Bootstrap
+ - Justinmind <br />
+ - Figma <br />
+ - Matrial Design <br />
+ - Ionic Framwork <br />
+ - Bootstrap <br />
 
 ## Team members
 | Full Names    | IDs           |  Github Usernames |
