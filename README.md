@@ -15,8 +15,8 @@ Features of the platform
 
 ## Team members
 | Full Names    | IDs           |  Github Names |
-| ------------- | ------------- | ------------- |
-| Omar Mahmoud  |   40158127    | @OmarHesham123|
+| ------------- | ------------- | ------------- | 
+| Omar Mahmoud  |   40158127    |[@OmarHesham123](https://github.com/OmarHesham123)|
 | Mira Aji  |    40041473   | @miraaji |
 | Zeineb Ben Mami |       | @ |
 | Justin Latella  |       | @kknicekewl |
