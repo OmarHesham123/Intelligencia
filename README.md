@@ -22,6 +22,6 @@ Features of the platform
 | Justin Latella  |   40091366    | [@kknicekewl](https://github.com/kknicekewl)|
 | Rohan Das  |       | [@DasDeveloper](https://github.com/DasDeveloper) |
 | Amar Mahmoud  |       | [@Amar-Mahmoud](https://github.com/Amar-Mahmoud) |
-| Mohammed Oharb  |       | [@MohammedJava](https://github.com/MohammedJava) |
-| Kunal Harshilkumar Shah  |       | [@Kunal22shah](https://github.com/Kunal22shah) |
+| Mohammed Oharb  |   40157277    | [@MohammedJava](https://github.com/MohammedJava) |
+| Kunal Harshilkumar Shah  |    40153500   | [@Kunal22shah](https://github.com/Kunal22shah) |
 | Dina Yashaev  |  27613822    | [@superdina68](https://github.com/superdina68)|
