@@ -26,7 +26,7 @@ Features of the platform
 | Mira Aji  |    40041473   | [@miraaji](https://github.com/miraaji) |
 | Zeineb Ben Mami |   40024877    | [@zeinebbenmami ](https://github.com/zeinebbenmami) |
 | Justin Latella  |   40091366    | [@kknicekewl](https://github.com/kknicekewl)|
-| Rohan Das  |       | [@DasDeveloper](https://github.com/DasDeveloper) |
+| Rohan Das  |   40177213    | [@DasDeveloper](https://github.com/DasDeveloper) |
 | Amar Mahmoud  |       | [@Amar-Mahmoud](https://github.com/Amar-Mahmoud) |
 | Mohammed Oharb  |   40157277    | [@MohammedJava](https://github.com/MohammedJava) |
 | Kunal Harshilkumar Shah  |    40153500   | [@Kunal22shah](https://github.com/Kunal22shah) |
