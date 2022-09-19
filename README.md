@@ -14,7 +14,7 @@ Features of the platform
 - tool 2
 
 ## Team members
-- Omar Mahmoud @OmarHesham123
+- *Omar Mahmoud* @OmarHesham123
 - Mira Aji @miraaji
 - Zeineb Ben Mami @
 - Justin Latella @kknicekewl
