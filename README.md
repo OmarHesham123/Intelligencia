@@ -12,7 +12,7 @@ Features of the platform
 ## Tools and Techniques
  **Techniques**
  
- **Tools** |
+ **Tools** <br />
  Justinmind
  Figma
  Matrial Design
