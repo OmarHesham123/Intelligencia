@@ -7,7 +7,10 @@ Creating an E-learning platform
 Here goes the objectives of the project
 
 ## features
-Features of the platform
+- Accounts creation
+- Courses attribution to tutors
+- Upload/download documents
+- Lessons Request  
 
 ## Tools and Techniques
  **Techniques**
