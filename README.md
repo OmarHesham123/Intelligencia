@@ -11,6 +11,8 @@ Here goes the objectives of the project
 - Courses attribution to tutors
 - Upload/download documents
 - Lessons Request  
+- Sharedboard between students and tutors. 
+- Multi-language Platform
 
 ## Tools and Techniques
  **Techniques**
