@@ -12,7 +12,9 @@ Here goes the objectives of the project
 - Courses attribution to tutors
 - Upload/download documents
 - Lessons Request  
-- Sharedboard between students and tutors. 
+- Sharedboard between students and tutors
+- Q and A forum for students' questions
+- Rating system for tutors from students 
 - Multi-language Platform
 - Aimation for interactive learning
 
