@@ -22,6 +22,7 @@ Here goes the objectives of the project
 - Material Design <br />
 - Ionic Framework <br />
 - Bootstrap <br />
+- Miro
 
 ## Team members
 | Full Names    | IDs           |  Github Usernames |
