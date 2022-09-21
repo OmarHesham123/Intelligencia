@@ -17,9 +17,6 @@ Here goes the objectives of the project
 - Aimation for interactive learning
 
 ## Tools and Techniques
- **Techniques**
- 
- **Tools** <br />
 - Justinmind <br />
 - Figma <br />
 - Matrial Design <br />
