@@ -4,7 +4,7 @@
 Creating an E-learning platform
 
 ## Objective
-Here goes the objectives of the project
+The main objective of this project is to build an E-academy platform that will have unique features that will be different/better from its competitors available currently. Different Software Engineering techniques such as Requirement elication, evaluation, and specification will be used to collect information and the features will be developed upon the same.
 
 ## Core Features
 - Accounts creation
