@@ -8,6 +8,7 @@ Here goes the objectives of the project
 
 ## features
 - Accounts creation
+- Guest Log-in
 - Courses attribution to tutors
 - Upload/download documents
 - Lessons Request  
