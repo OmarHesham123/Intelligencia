@@ -14,6 +14,7 @@ Here goes the objectives of the project
 - Lessons Request  
 - Sharedboard between students and tutors. 
 - Multi-language Platform
+- Aimation for interactive learning
 
 ## Tools and Techniques
  **Techniques**
