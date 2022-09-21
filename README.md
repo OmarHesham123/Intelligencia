@@ -19,8 +19,8 @@ Here goes the objectives of the project
 ## Tools and Techniques
 - Justinmind <br />
 - Figma <br />
-- Matrial Design <br />
-- Ionic Framwork <br />
+- Material Design <br />
+- Ionic Framework <br />
 - Bootstrap <br />
 
 ## Team members
