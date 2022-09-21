@@ -6,7 +6,7 @@ Creating an E-learning platform
 ## Objective
 Here goes the objectives of the project
 
-## features
+## Core Features
 - Accounts creation
 - Guest Log-in
 - Courses attribution to tutors
