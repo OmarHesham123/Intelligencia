@@ -4,7 +4,7 @@
 Intelligencia is an e-platform that focuses mainly on tutoring. It is a system that is solely online, with a use of a program similar to Zoom, where tutors can speak to their students and vice versa, as well as the use of a board to explain the course or the problems, like in a real classroom.  This platform will have several different courses available, with the possibility of being able to request one that isn't currently offered in the program.  Parents would be able to interact with the tutors and ask to focus on specific areas the child might have trouble in.  
 
 ## Objective
-The main objective of this project is to build an E-academy platform that will have unique features that will be different/better from its competitors available currently which will help students/ parents find tutors based on their needs.Furthermore, different Software Engineering techniques such as Requirement elication, evaluation, and specification will be used to collect information and the features will be developed upon the same.
+The main objective of this project is to build an E-academy platform that will have unique features (as listed below) that will be different/better from its competitors available currently which will help students/ parents choose a tutor with whom they feel most comfortable to ensure the best learning experience.Furthermore, different Software Engineering techniques such as Requirement elication, evaluation, and specification will be used to collect information and the features will be developed upon the same.
 
 ## Core Features
 - Accounts creation
