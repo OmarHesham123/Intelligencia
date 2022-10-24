@@ -17,6 +17,7 @@ The main objective of this project is to build an E-academy platform that will h
 - Rating system for tutors from students 
 - Multi-language Platform
 - Animation for interactive learning
+- Tutor Group
 - Textbook Rentals
 
 ## Tools and Techniques
